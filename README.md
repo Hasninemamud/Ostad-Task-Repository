@@ -1,4 +1,4 @@
-````markdown
+
 # Git Branching, Merge, and Rebase Task
 
 ##  GitHub Repository
@@ -189,5 +189,3 @@ git rebase -i
 
 
 
-```
-```
